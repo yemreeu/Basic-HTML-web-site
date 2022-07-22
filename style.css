@@ -1,0 +1,18 @@
+/* 
+Responsive style for image */
+
+#image{
+    width: 100%;
+  max-width: 300px;
+  height: auto;
+}
+
+.series__content{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.content__paragraph{
+    padding-left: 1rem;
+}
+
