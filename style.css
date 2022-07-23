@@ -16,3 +16,21 @@ Responsive style for image */
     padding-left: 1rem;
 }
 
+
+
+.list-title{
+    font-weight: bold;
+}
+
+.list-elements{
+    font-weight: 200;
+display: flex;
+}
+
+.container{
+    background-color: beige;
+    height: 200;
+    width: 50%;
+    align-items: center;
+}
+
